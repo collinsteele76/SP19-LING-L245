@@ -202,7 +202,3 @@ Jean Tulard, Le 18 Brumaire. Comment terminer une révolution, embannadur Perrin
 Fabrice Bouthillon, Nazisme et Révolution : Histoire Théologique du National-Socialisme, 1789-1989, Pariz, embannadur Fayard, 2011, (336 p.) (ouzhpennet al levr ennañ "Et le Bunker était Vide")
 Romantoù istorel
 Victor Hugo, Quatrevingt-treize, Embannadur Michel Lévy, 19 a viz C'hwevrer 1874
-
-$ sed 's/[^а-яА-ЯIӀ]\+/\n/g' < wiki.txt |
-sort -r |
-uniq -c > wiki.hist
