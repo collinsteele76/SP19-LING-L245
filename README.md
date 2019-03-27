@@ -89,7 +89,7 @@ WikiExtractor:
 * The tool to extract the wiki
  
 wiki.hist:
-* The word count from the Unix tutorial
+* The word count from the Unix tutorial, may have been lost
  
 wiki.nextwords:
 * Tokens from the wiki text from the Unix tutorial
