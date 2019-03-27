@@ -9,7 +9,7 @@
 		<sdef n="p1"/>
 		<sdef n="pri"/>
 		<sdef n="prn"/>
-	<sdef n="subj"/>
+		<sdef n="subj"/>
 	</sdefs>
 
 	<section id="main" type="standard">
