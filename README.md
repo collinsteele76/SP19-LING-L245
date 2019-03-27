@@ -2,101 +2,101 @@
 
 Francis M. Tyers 
 00_Unix:
-* Desc
+* The Unix directory
  
 2385words:
-* Desc
+* Unsure
  
 apertium-eng.eng.dix:
-* Desc
+* My English dictionary for the Apertium tutorial
  
 apertium-hbs-eng.hbs-eng.dix:
-* Desc
+* My bilingual dictionary for the Apertium tutorial
  
 apertium-hbs-eng.hbs-eng.t1x:
-* Desc
+* My transfer document with my rules for the Apertium tutorial
  
 apertium-hbs.hbs.dix:
-* Desc
+* My Serbo-Croation dictionary for the Apertium tutorial
  
 bigram.sh:
-* Desc
+* My prgram to get bigrams from the Unix tutorial
  
 brwikimedia-20190201-pages-articles.xml.bz2:
-* Desc
+* The wiki I downloaded for the Unix tutorial, for better or for worse
  
 cat.py:
-* Desc
+* My cat program for the Python tutorial
  
 counter.py:
-* Desc
+* My counter program for the Python tutorial
  
 final-consonants.txt:
-* Desc
+* The results from trying to get the final consonants for the Wiki used in the Unix tutorial
  
 fio.py:
-* Desc
+* My original code for the file input/output section of the Python tutorial, and later became rank.py. This is the same as rank.py
  
 for.py:
-* Desc
+* My code for the for loops for the Python tutorial
  
 freq.txt:
-* Desc
+* My frequency list that I got from the analysis of the wiki in the Unix tutorial
  
 hsb.monodict:
-* Desc
+* An abandoned early monodictionary for Serbo-Croation, later moving to apertium-hbs.hbs.dix
  
 if.py:
-* Desc
+* My code for the if statement section of the Python tutorial
  
 initial-consonants.txt:
-* Desc
+* The results from trying to get the initial consonants for the Wiki used in the Unix tutorial
  
 loopmaybe.py:
-* Desc
+* Blank document, formerly my attempt at a loop code
  
 Makefile:
-* Desc
+* The code to recompile the dictionaries
  
 mono.dict:
-* Desc
+* An abandoned early monodictionary for the Apertium tutorial
  
 privet.py:
-* Desc
+* Basic python code to output 'Привет мир!' for the Python tutorial
  
 rank.py:
-* Desc
+* My code for the file input/output section to rank the data for the Python tutorial
  
 README.md:
-* Desc
+* This
  
 spellchecker.py:
-* Desc
+* My code for the end of the Python tutorial to make a basic spell checker
  
 st.py:
-* Desc
+* A code created under the dict structure for the Python tutorial to strip the text and create a vocabulary list
  
 wc.py:
-* Desc
+* My counter program to try to get word, line, character, syllable, and consonant counts for the Python tutorial
  
 while.py:
-* Desc
+* My code for the while section of the Python tutorial
  
 wiki.bigrams:
-* Desc
+* The result of using bigrams.sh to find the bigrams in the wiki text for the Unix tutorial
  
 WikiExtractor:
-* Desc
+* The tool to extract the wiki
  
 wiki.hist:
-* Desc
+* The word count from the Unix tutorial
  
 wiki.nextwords:
-* Desc
+* Tokens from the wiki text from the Unix tutorial
  
 wiki.txt:
-* Desc
+* The broken down wiki text from the Unix tutorial
  
 wiki.words:
-* Desc
+* Tokens from the wiki text from the Unix tutorial
  
